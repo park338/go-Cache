@@ -40,7 +40,7 @@ go-Cache 是一个轻量级的分布式内存缓存系统，主要解决高并�
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/your-username/go-Cache.git
+git clone https://github.com/park338/go-Cache.git
 cd go-Cache
 ```
 
